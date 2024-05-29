@@ -6,7 +6,6 @@ import java.util.List;
 import java.util.Scanner;
 import java.util.stream.Collectors;
 
-import javax.swing.plaf.synth.SynthScrollPaneUI;
 
 import chess.ChessMatch;
 import chess.ChessPiece;
